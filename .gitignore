@@ -5,3 +5,4 @@ venv
 .github
 .env
 pucache
+pyc
