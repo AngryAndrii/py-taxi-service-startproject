@@ -1,9 +1,8 @@
 .venv
 venv
 .idea
-*.sqlite3
+*.sqlite*
 .github
 .env
-pucache
-pyc
+*.pyc
 **/__pycache__/
