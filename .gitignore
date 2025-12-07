@@ -6,3 +6,4 @@ venv
 .env
 pucache
 pyc
+**/__pycache__/
